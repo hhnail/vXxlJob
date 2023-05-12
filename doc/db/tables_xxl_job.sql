@@ -1,3 +1,4 @@
+-- 以下SQL需要到自己的环境部署表结构。注意这里建了一个新的数据库，根据自己需要调整即可
 #
 # XXL-JOB v2.4.0
 # Copyright (c) 2015-present, xuxueli.
